@@ -1,0 +1,9 @@
+D:\Desarrollo\WEB_SERVICES\C#\CORE\RouletteApi\Roulette.DAL\obj\Debug\netcoreapp3.1\Roulette.DAL.csprojAssemblyReference.cache
+D:\Desarrollo\WEB_SERVICES\C#\CORE\RouletteApi\Roulette.DAL\obj\Debug\netcoreapp3.1\Roulette.DAL.AssemblyInfoInputs.cache
+D:\Desarrollo\WEB_SERVICES\C#\CORE\RouletteApi\Roulette.DAL\obj\Debug\netcoreapp3.1\Roulette.DAL.AssemblyInfo.cs
+D:\Desarrollo\WEB_SERVICES\C#\CORE\RouletteApi\Roulette.DAL\obj\Debug\netcoreapp3.1\Roulette.DAL.csproj.CoreCompileInputs.cache
+D:\Desarrollo\WEB_SERVICES\C#\CORE\RouletteApi\Roulette.DAL\bin\Debug\netcoreapp3.1\Roulette.DAL.deps.json
+D:\Desarrollo\WEB_SERVICES\C#\CORE\RouletteApi\Roulette.DAL\bin\Debug\netcoreapp3.1\Roulette.DAL.dll
+D:\Desarrollo\WEB_SERVICES\C#\CORE\RouletteApi\Roulette.DAL\bin\Debug\netcoreapp3.1\Roulette.DAL.pdb
+D:\Desarrollo\WEB_SERVICES\C#\CORE\RouletteApi\Roulette.DAL\obj\Debug\netcoreapp3.1\Roulette.DAL.dll
+D:\Desarrollo\WEB_SERVICES\C#\CORE\RouletteApi\Roulette.DAL\obj\Debug\netcoreapp3.1\Roulette.DAL.pdb
